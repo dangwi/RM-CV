@@ -1,0 +1,31 @@
+%YAML:1.0
+
+dilateSize: 1
+closeSize: 2
+smallDelayTime: 0.34
+#smallDelayTime: 0
+bigDelayTime: 0.35
+
+buffSimilaritymin: 0.75
+buffhwratiomin : 1.4
+buffhwratiomax : 2.4
+buffContourAreamin : 1400
+buffContourAreamax : 2000
+
+centerContourmin: 300
+centerSimilarity: 0.7
+centerhwration: 0.75
+
+yoffset: -0.08
+xoffset: -0.08
+
+buffhmin: 0
+buffhmax: 100
+buffsmin: 0
+buffsmax: 50
+buffvmin: 200
+buffvmax: 255
+buffblue_hmin: 0
+buffblue_hmax: 100
+buffred_hmin: 0
+buffred_hmax: 30
